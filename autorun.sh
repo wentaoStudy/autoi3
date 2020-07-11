@@ -10,7 +10,7 @@
 python3 autorun.py
 
 # 安装i3 一把梭
-sudo pacman -S i3 conky-i3 vim screenfetch compton alacritty variety code chromium rofi  ttf-roboto noto-fonts ttf-dejavu  wqy-bitmapfont wqy-microhei wqy-microhei-lite wqy-zenheinoto-fonts-cjk adobe-source-han-sans-cn-fonts adobe-source-han-serif-cn-fonts fcitx fcitx-im fcitx-libpinyin fcitx-configtool fcitx-googlepinyin
+sudo pacman -S i3 conky-i3 vim screenfetch compton alacritty variety code chromium rofi pamac ttf-roboto noto-fonts ttf-dejavu  wqy-bitmapfont wqy-microhei wqy-microhei-lite wqy-zenheinoto-fonts-cjk adobe-source-han-sans-cn-fonts adobe-source-han-serif-cn-fonts fcitx fcitx-im fcitx-libpinyin fcitx-configtool fcitx-googlepinyin
 
 # pacman -S screenfetch
 
